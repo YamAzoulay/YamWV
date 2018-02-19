@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
     String URL, a, b, c;
     int a1;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
